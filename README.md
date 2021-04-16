@@ -1,6 +1,6 @@
 ### Junyeong Park -- @JYPark09
 
-:clap: Hi! Welcome to my GitHub profile! I'm undergraduate student at [Hanyang University](https://hanyang.ac.kr) department of Computer Science.
+:clap: Hi! Welcome to my GitHub profile! I'm undergraduate student at [Hanyang University](https://www.hanyang.ac.kr) department of Computer Science.
 My main interests are Deep Learning, Reinforcement Learning and Parallel Computing. :grin:
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=JYPark09&theme=chalk&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
