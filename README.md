@@ -1,4 +1,4 @@
-### Junyeong Park -- @JYPark09
+### Junyeong Park -- @frechele
 
 :clap: Hi! Welcome to my GitHub profile! I'm undergraduate student at [Hanyang University](https://www.hanyang.ac.kr) department of Computer Science.
 My main interests are Deep Learning, Reinforcement Learning and Parallel Computing. :grin:
