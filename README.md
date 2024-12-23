@@ -1,19 +1,15 @@
 ### Junyeong Park -- @frechele
 
-:clap: Hi! Welcome to my GitHub profile! I'm master student at [KAIST School of Computing](https://cs.kaist.ac.kr).
-My main interests are Deep Learning, Reinforcement Learning and Parallel Computing. :grin:
+:slightly_smiling_face: Hello! I'm a master candidate at [KAIST School of Computing](https://cs.kaist.ac.kr) and [Machine Learning and Mind Lab](https://mlml.kaist.ac.kr).
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=frechele&theme=chalk&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=frechele&hide_border=true)](https://git.io/streak-stats)
-
-[![frechele's github status](https://github-readme-stats.vercel.app/api?username=frechele&show_icons=true&hide_border=true)](https://github.com/frechele)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frechele&hide_border=true&layout=compact)](https://github.com/frechele)
-
-### :nut_and_bolt: Programming
-- Python, PyTorch and C/C++ on linux-based large-scale system
-- Parallel computing using OpenMP
+### :rocket: Research Interests
+- General-purpose Instruction-following AI Agents
+- Model-based Reinforcement Learning
 - Deep Learning
-- Reinforcement Learning
+
+### :nut_and_bolt: Tech Stacks
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) <br/>
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
 
 ### :mailbox_with_mail: How to reach me
-- e-mail: jyp10987@gmail.com
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jyp10987@gmail.com) [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/jyp_frechele) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/frechele/)
