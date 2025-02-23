@@ -1,6 +1,6 @@
 ### Junyeong Park -- @frechele
 
-:slightly_smiling_face: Hello! I'm a master candidate at [KAIST School of Computing](https://cs.kaist.ac.kr) and [Machine Learning and Mind Lab](https://mlml.kaist.ac.kr).
+:slightly_smiling_face: Hello! I'm a Ph.D. student at [KAIST School of Computing](https://cs.kaist.ac.kr) and [Machine Learning and Mind Lab](https://mlml.kaist.ac.kr).
 
 ### :rocket: Research Interests
 - General-purpose Instruction-following AI Agents
